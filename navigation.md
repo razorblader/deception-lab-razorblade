@@ -1,8 +1,8 @@
-#navigation.md
+## navigation.md
 
 Welcome to the Deception Lab documentation. Below are links to the honeypot projects and their respective setup, configuration, and testing procedures.
 
-🐍 Dionaea
+ Dionaea
 
 [Dionaea: Setup](./Dionaea/setup.md)
 
@@ -10,7 +10,7 @@ Welcome to the Deception Lab documentation. Below are links to the honeypot proj
 
 [Dionaea: Testing](./Dionaea/testing.md)
 
-🕵️ Cowrie
+ Cowrie
 
 [Cowrie: Setup](./Cowrie/setup.md)
 
@@ -18,7 +18,7 @@ Welcome to the Deception Lab documentation. Below are links to the honeypot proj
 
 [Cowrie: Testing ](./Cowrie/testing.md)
 
-🧪 OpenCanary
+ OpenCanary
 
 [OpenCanary: Setup](./OpenCanary/setup.md)
 
@@ -26,7 +26,7 @@ Welcome to the Deception Lab documentation. Below are links to the honeypot proj
 
 [OpenCanary: Testing](./OpenCanary/testing.md)
 
-🪤 CanaryTokens
+ CanaryTokens
 
 [CanaryTokens: Usage](./CanaryTokens/testing.md)
 
