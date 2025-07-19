@@ -4,7 +4,7 @@ Welcome to the Deception Lab documentation. Below are links to the honeypot proj
 
  Dionaea:
 
-[Dionaea: Setup](./Dionaea/setup.md)
+[Setup](./Dionaea/setup.md)
 
 [Dionaea: Configuration](./Dionaea/configuration.md)
 
