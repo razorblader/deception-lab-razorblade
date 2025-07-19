@@ -3,34 +3,33 @@
 Welcome to the Deception Lab documentation. Below are links to the honeypot projects and their respective setup, configuration, and testing procedures.
 
 🐍 Dionaea
+[Dionaea: Setup](./Dionaea/setup.md)
 
-Setup[Dionaea: Setup](./Dionaea/setup.md)
+[Dionaea: Configuration](./Dionaea/configuration.md)
 
-Configuration[Dionaea: Configuration](./Dionaea/setup.md)
-
-Testing[Dionaea: Testing](./Dionaea/testing.md)
+[Dionaea: Testing](./Dionaea/testing.md)
 
 🕵️ Cowrie
 
-Setup(./Cowrie/setup.md)
+[Cowrie: Setup](./Cowrie/setup.md)
 
-Configuration(./Cowrie/setup.md)
+[Cowrie:Configuration](./Cowrie/configuration.md)
 
-Testing(./Dionaea/Cowrie.md)
+[Cowrie: Testing ](./Cowrie/testing.md)
 
 🧪 OpenCanary
 
-Setup(./OpenCanary/setup.md)
+[OpenCanary: Setup](./OpenCanary/setup.md)
 
-Configuration(./OpenCanary/setup.md)
+[OpenCanary: Configuration](./OpenCanary/configuration.md)
 
-Testing(./OpenCanary/testing.md)
+[OpenCanary: Testing](./OpenCanary/testing.md)
 
 🪤 CanaryTokens
 
-Usage(./CanaryTokens/testing.md)
+[CanaryTokens: Usage](./CanaryTokens/testing.md)
 
-Examples(./examples.md)
+[CanaryTokens: Examples](./examples.md)
 
 Each section provides clear commands and results for reproducibility and is backed by attack simulation and log analysis examples.
 
