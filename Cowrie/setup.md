@@ -26,4 +26,4 @@ Check the container status:
 docker ps
 ```
 You should see the cowrie/cowrie container listed and active.
-Now you are ready to test it, but if you want to custom some features go to: [Configuration](./configuration)
+Now you are ready to test it, but if you want to custom some features go to: [Configuration](./configuration.md)
