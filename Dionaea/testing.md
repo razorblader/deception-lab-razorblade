@@ -70,7 +70,7 @@ The login attempts will be logged in real time.
 You can try to enable other services and try tests with any tool you want! 
 Thank you for interest in cybersecurity :D
 
-Continue to [Cowrie lab](./Cowrie/setup.md)
+Continue to [Cowrie lab](../Cowrie/setup.md)
 
 
 
