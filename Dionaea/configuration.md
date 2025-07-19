@@ -55,5 +55,5 @@ To verify that it’s running:
 ```bash
 sudo systemctl status dionaea
 ```
-Now needed configuration is done Dionaea is ready for [Testing](./Dionaea/testing.md)
+Now needed configuration is done Dionaea is ready for [Testing](./testing.md)
 
