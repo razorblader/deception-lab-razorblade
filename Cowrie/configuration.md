@@ -37,4 +37,4 @@ Restart Cowrie.
 docker restart <container_id>
 ```
 Logs and fake terminal behavior should now reflect the updated configuration.
-Continue to: [Testing](./testing)
+Continue to: [Testing](./testing.md)
