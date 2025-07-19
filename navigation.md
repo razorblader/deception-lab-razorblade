@@ -4,11 +4,11 @@ Welcome to the Deception Lab documentation. Below are links to the honeypot proj
 
 🐍 Dionaea
 
-Setup(./Dionaea/setup.md)
+Setup[Dionaea: Setup](./Dionaea/setup.md)
 
-Configuration(./Dionaea/setup.md)
+Configuration[Dionaea: Configuration](./Dionaea/setup.md)
 
-Testing(./Dionaea/testing.md)
+Testing[Dionaea: Testing](./Dionaea/testing.md)
 
 🕵️ Cowrie
 
