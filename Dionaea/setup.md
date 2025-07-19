@@ -79,5 +79,5 @@ Test whether Dionaea runs:
 /opt/dionaea/bin/dionaea -vv
 ```
 
-Continue to [configuration](./Dionaea/configuration.md)
+Continue to [configuration](./configuration.md)
 
