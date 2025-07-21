@@ -6,7 +6,7 @@ This section walks through how to simulate attacks against Cowrie's fake SSH ser
 
 ## Simulated SSH Access
 
-From your attacker machine (e.g., Kali Linux), attempt to connect to Cowrie:
+From the same VM used for seting up:
 Let’s delete any other previous ssh known_hosts connections to the honeypot first to avoid erros:
 ```bash
 rm .ssh/known_hosts
