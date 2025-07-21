@@ -8,9 +8,12 @@ this guide explains how to install and build the OpenCanary honeypot on a clean 
 - 8 GB of available storage
 - Virtual machine recommended
 - Internet access for downloading dependencies
+
+  
   ---
-  # System Preparation.
-  Update packages and confirm Python 3 is installed:
+# System Preparation.
+
+Update packages and confirm Python 3 is installed:
 
 ```bash
 sudo apt update
