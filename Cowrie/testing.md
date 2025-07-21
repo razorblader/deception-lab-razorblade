@@ -26,5 +26,5 @@ pwd
 ```
 After that, you can see all interaction captured in logs! 
 And that is it, as quick as this you can start testing how a Cowrie honeypot works!
-To continue to the next honeypot please go to [OpenCanary](../OpneCanary/setup.md)
+To continue to the next honeypot please go to [OpenCanary](../OpenCanary/setup.md)
 
