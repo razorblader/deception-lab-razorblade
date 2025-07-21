@@ -13,7 +13,7 @@ rm .ssh/known_hosts
 ```
 Now in a new terminal, in the same VM we can start to test it.
 ```bash
-ssh root@<COWRIE-IP> -p 2222
+ssh root@localhost -p 2222
 ```
 then we log in with any made up credentials.
 After that, let's try some commands:
