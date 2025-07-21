@@ -13,7 +13,7 @@ This guide explains how to install and build the Dionaea honeypot on a clean Ubu
 
 ---
 
-# ⚙ System Preparation
+# System Preparation
 
 Update packages and confirm Python 3 is installed:
 
