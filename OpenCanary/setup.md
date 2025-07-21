@@ -1,6 +1,7 @@
 # OpenCanary - setup
-This guide explains how to install and build the OpenCanary honeypot on a clean Ubuntu Server 20.04 system.
----
+this guide explains how to install and build the OpenCanary honeypot on a clean Ubuntu Server 20.04 system.
+
+--- 
 #  Requirements
 
 - Ubuntu Server 20.04
