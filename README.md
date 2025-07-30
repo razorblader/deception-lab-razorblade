@@ -5,10 +5,10 @@ This project showcases the installation, configuration, and testing of multiple 
 
 It includes detailed, hands-on labs for:
 
-- 🐍 [Dionaea](./Dionaea/setup.md) — malware collection honeypot
-- 🕵️ [Cowrie](./Cowrie/setup.md) — SSH/telnet honeypot
-- 🧪 [OpenCanary](./OpenCanary/setup.md) — multi-protocol honeypot
-- 🪤 [CanaryTokens](./CanaryTokens/usage.md) — honeytokens (file-based traps)
+-  [Dionaea](./Dionaea/setup.md) — malware collection honeypot
+-  [Cowrie](./Cowrie/setup.md) — SSH/telnet honeypot
+-  [OpenCanary](./OpenCanary/setup.md) — multi-protocol honeypot
+-  [CanaryTokens](./CanaryTokens/usage.md) — honeytokens (file-based traps)
 
 ---
 
