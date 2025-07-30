@@ -12,7 +12,7 @@ It includes detailed, hands-on labs for:
 
 ---
 
-## 🧠 Purpose
+##  Purpose
 
 The goal of this lab is to simulate real-world cyberattacks in a controlled environment and use deception tools to:
 
@@ -22,7 +22,7 @@ The goal of this lab is to simulate real-world cyberattacks in a controlled envi
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Ubuntu Server 20.04 (for Dionaea and OpenCanary)
 - Kali Linux (as attacker environment)
@@ -32,7 +32,7 @@ The goal of this lab is to simulate real-world cyberattacks in a controlled envi
 
 ---
 
-## 📁 Structure
+##  Structure
 
 Each honeypot includes:
 
@@ -40,7 +40,7 @@ Each honeypot includes:
 - `configuration.md` — Customization and setup
 - `testing.md` — Simulated attack procedures and log review
 
-> 📌 Start with [navigation.md](./navigation.md) for a quick index of all sections.
+>  Start with [navigation.md](./navigation.md) for a quick index of all sections.
 
 Thank you for your interest in cybersecurity !
 ---
