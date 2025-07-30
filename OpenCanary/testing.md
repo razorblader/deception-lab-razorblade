@@ -43,4 +43,4 @@ cat /var/tmp/opencanary.log
 You should see the source IP and users and passwords used!
 
 And that's it, you can play around and try to test other services, thank you
-To contunue go to [CanaryTokens](../CanaryTokens/setup.md)
+To contunue go to [CanaryTokens](../CanaryTokens/usage.md)
